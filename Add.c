@@ -8,6 +8,7 @@ void main()
 
 	result=a+b;
 
+
 	printf("%d is addition of no %d and %d",result,a,b);
 
 }
